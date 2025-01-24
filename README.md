@@ -1,6 +1,6 @@
 ### Screenshot
 
-(/Desktop-view.png)
+![](/Desktop-view.png)
 
 ### Links
 
